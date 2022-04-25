@@ -1,0 +1,159 @@
+ul {
+    list-style: none;
+}
+
+.message_requests {
+    /* background-color: rgb(165, 165, 165); */
+    text-transform: capitalize;
+
+}
+
+.messages {
+    background-color: rgb(255, 255, 255);
+    /* height: max-content; */
+    /* overflow: hidden; */
+    padding: 12px;
+    border-radius: 8px;
+}
+
+.messages .header-message ul {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.search {
+    display: flex;
+    width: 100%;
+    display: flex;
+    height: 100px;
+    background-color: #eff2ef;
+    border-radius: 25px;
+    height: fit-content;
+    overflow: hidden;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.search .css-tzssek-MuiSvgIcon-root {
+    font-size: 18px;
+    margin-top: 9.4px;
+    margin-left: 9px;
+}
+
+.messages .search input {
+    height: fit-content;
+    margin-top: 5px;
+    border: none;
+    height: 30px;
+    background-color: transparent;
+    outline: none;
+}
+
+.category{
+    margin-bottom: 15px;
+}
+.category ul{
+    font-size: 15px;
+    justify-content: space-between;
+    display: flex;
+    /* margin-bottom: 10px; */
+}
+.category ul li{
+    cursor: pointer;
+    padding: 10px;
+}
+.category ul li.active{
+border-bottom: 1px solid;
+}
+
+.pepole-messages{
+    display: flex;
+    flex-direction: column;
+    /* width: 100%; */
+}
+.pepole-messages .message{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    width: 100%;
+    margin-bottom: 10px;
+    
+
+}
+.pepole-messages .message    .active{
+    overflow: visible;
+    /* border-radius: 50%; */
+    position: relative;
+}
+.pepole-messages .message    .active img{
+    border-radius: 50%;
+}
+.pepole-messages .message    .active::after
+{
+content:'';
+display: block;
+background-color: hsl(120, 95%, 65%);
+width: 6px;
+height: 6px;
+border-radius:50%;
+border: 1px solid #fff;
+position: absolute;
+right:3px;
+top: 73%;
+/* z-index: 1923; */
+}
+.pepole-messages .message .info{
+    margin-left: 10px;
+}
+.pepole-messages .message p{
+    font-size: 14px;
+}
+
+
+/* ==========Start requests====== */
+.requests{
+    margin-top: 30px;
+    padding: 13px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    text-transform: capitalize;
+/* line-height: 3; */
+}
+.requests h4{
+    color: rgb(94, 94, 94);
+}
+.requests .avatar-info{
+    display: flex;
+    align-items: center;
+    margin: 39px 0px 10px;
+    /* justify-content: space-around; */
+}
+.requests .info{
+    margin-left: 12px;
+}
+.requests .time{
+    color: #7c7c7c;
+    font-size: 11px;
+
+}
+
+.requests .buttons{
+    display: flex;
+    /* justify-content: space-between; */
+
+}
+.requests .buttons button{
+    outline: none;
+    text-transform: capitalize;
+    background-color: none;
+    border: none;
+    padding: 10px 26px;
+    margin-right: 20px;
+    border-radius: 20px 
+}
+.requests .buttons .button1{
+    color: #fff;
+    background-color: hsl(252, 75%, 60%);
+}
+/* ==========End requests======== */

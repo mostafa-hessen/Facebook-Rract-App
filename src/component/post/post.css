@@ -1,0 +1,143 @@
+.post {
+    width: 100%;
+    background-color: #fff;
+    margin-top: 10px;
+    padding: 10px;
+    min-height: 50px;
+    overflow: hidden;
+    border-radius: 15px;
+}
+.top{
+    display: flex;
+    align-items: center;
+    padding: 15px;
+}
+.top .top_info{
+    margin-left: 10px;
+
+}
+.top .top_info>h4{
+    font-size: medium;
+}
+.top .top_info>p{
+    color: gray;
+    font-size: small;
+}
+.top .top_info>p,.top .top_info>h4{
+     margin: 0px;
+}
+.top .moreoptions{
+    width: 21px;
+    /* justify-self: flex-start; */
+    cursor: pointer;
+}
+.top .div{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.bottom {
+    /* padding: 15px 25px; */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: flex-start;
+    /* margin-left: 100px; */
+}
+.bottom > div{
+    padding: 15px 35px;
+
+}
+.post .img {
+}
+.post .img > img{
+    width: 100%;
+    border-radius: 15px;
+    height: 300px;
+}
+.postoptions{
+    width: 100%;
+    /* padding: 10px; */
+    display: flex;
+    /* justify-content: space-evenly; */
+    /* color: gray; */
+    font-size: medium;
+    padding: 3px 15px;
+    /* border-top: .2px solid rgb(213, 210, 210); */
+}
+
+/* .postoptions::before {
+content: '';
+display: block;
+border-top: 1px solid ;
+} */
+.postoptions .postoption{
+    margin-left: 5px;
+    font-size: 21px;
+
+    /* display: flex;
+    align-items: center;
+    cursor: pointer;
+    position: relative; */
+
+}
+.postoptions .postoption4{
+    /* justify-self: flex-end; */
+    /* justify-self: flex-end; */
+    margin-left: auto;
+    /* justify-content: flex-end !important; */
+}
+ .postoption img{
+     width: 23px
+ }
+
+/* .likeKind{
+    display: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 7px;
+    position: absolute;
+    min-width: 180px;
+    min-height: 20px;
+    border-radius: 60px;
+    background-color: #242526;
+    border: .3px solid #2e2f30;
+    color: red;
+    left: -35px;
+    top: -38px;
+
+}
+
+.likeKind img{
+    width: 50px;
+    height: 50px;
+}
+.likeKind .care{
+    width: 42px;
+    height: 42px;
+    margin-top: 3.3px;
+ }
+.postoptions .postoptionLike:hover .likeKind{
+    display: flex;
+} */
+
+
+.likedby{
+    display: flex;
+    margin-top: 10px;
+}
+.likedby .images{
+    display: flex;
+}
+.likedby span{
+    display: inline-flex;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    overflow: hidden;
+    margin-left: -9px;
+}
+.likedby span img{
+    width: 100%;
+}

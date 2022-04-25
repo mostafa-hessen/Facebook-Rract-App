@@ -1,0 +1,87 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    height: 50px;
+}
+
+
+/* ===========Start header left============ */
+.header .header_left{
+    display: flex;
+    align-items: center
+
+}
+
+ /* .header .header_left .img{
+    width: 35px;
+    height: 35px;
+    background-color: blue;
+    border-radius:50% ;
+    color: #fff;
+    text-align: center;
+    line-height: .1;
+} */
+/* ===========End  header left============ */
+.header .header_center{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex: .6;
+}
+.header .header_center .icon_input
+{
+    width: 100%;
+    display: flex;
+    height: 100px;
+    background-color: #eff2ef;
+    border-radius: 25px;
+    height: fit-content;
+    overflow: hidden;
+    margin-top: 5px;
+}
+.header .header_center .icon_input .css-tzssek-MuiSvgIcon-root{
+    font-size: 18px;
+    margin-top: 6.4px;
+    margin-left: 9px;
+}
+.header .header_center .icon_input input
+ {
+    border: none;
+    height: 30px;
+
+    background-color: #eff2ef;
+    outline: none;
+
+ }
+/* ===========Start header Center============ */
+
+/* ===========Start header Right============ */
+.header .header-right {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+}
+.header .header-right button
+{
+    background-color:hsl(252, 75%, 60%);
+    color: #fff;
+    margin-right: 15px;
+}
+/* .header .header-right  button{ */
+    /* display: flex; */
+    /* justify-content; */
+    /* align-items: center; */
+    /* width: 70px;
+    height: 30px;
+    border-radius: 15px 15px 15px; */
+    /* text-align: center; */
+
+/* } */
+/* ===========End header Right============ */
+
+
+
