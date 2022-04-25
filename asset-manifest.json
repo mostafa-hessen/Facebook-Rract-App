@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/mostafa-hessen/Facebook-Rract-App/static/css/main.6bf81f34.chunk.css",
+    "main.js": "/mostafa-hessen/Facebook-Rract-App/static/js/main.a35fe493.chunk.js",
+    "main.js.map": "/mostafa-hessen/Facebook-Rract-App/static/js/main.a35fe493.chunk.js.map",
+    "runtime-main.js": "/mostafa-hessen/Facebook-Rract-App/static/js/runtime-main.c241b3a6.js",
+    "runtime-main.js.map": "/mostafa-hessen/Facebook-Rract-App/static/js/runtime-main.c241b3a6.js.map",
+    "static/js/2.96a32abe.chunk.js": "/mostafa-hessen/Facebook-Rract-App/static/js/2.96a32abe.chunk.js",
+    "static/js/2.96a32abe.chunk.js.map": "/mostafa-hessen/Facebook-Rract-App/static/js/2.96a32abe.chunk.js.map",
+    "index.html": "/mostafa-hessen/Facebook-Rract-App/index.html",
+    "static/css/main.6bf81f34.chunk.css.map": "/mostafa-hessen/Facebook-Rract-App/static/css/main.6bf81f34.chunk.css.map",
+    "static/js/2.96a32abe.chunk.js.LICENSE.txt": "/mostafa-hessen/Facebook-Rract-App/static/js/2.96a32abe.chunk.js.LICENSE.txt",
+    "static/media/IMG_٢٠٢١٠٥٠٢_١٤١٨١٩.d065203c.jpg": "/mostafa-hessen/Facebook-Rract-App/static/media/IMG_٢٠٢١٠٥٠٢_١٤١٨١٩.d065203c.jpg",
+    "static/media/IMG_٢٠٢١٠٥٠٢_١٥١٦٥٢.ee8fead6.jpg": "/mostafa-hessen/Facebook-Rract-App/static/media/IMG_٢٠٢١٠٥٠٢_١٥١٦٥٢.ee8fead6.jpg",
+    "static/media/IMG_٢٠٢١٠٥٠٢_١٥١٧٢٥.990178f7.jpg": "/mostafa-hessen/Facebook-Rract-App/static/media/IMG_٢٠٢١٠٥٠٢_١٥١٧٢٥.990178f7.jpg",
+    "static/media/IMG_٢٠٢١٠٥٠٢_١٥١٨٤٥.2cfaa5c0.jpg": "/mostafa-hessen/Facebook-Rract-App/static/media/IMG_٢٠٢١٠٥٠٢_١٥١٨٤٥.2cfaa5c0.jpg",
+    "static/media/Screenshot_2021-09-22-14-20-27.a56f08ef.png": "/mostafa-hessen/Facebook-Rract-App/static/media/Screenshot_2021-09-22-14-20-27.a56f08ef.png",
+    "static/media/Screenshot_2021-10-01-22-18-30.0ff27943.png": "/mostafa-hessen/Facebook-Rract-App/static/media/Screenshot_2021-10-01-22-18-30.0ff27943.png",
+    "static/media/Screenshot_2021-10-01-22-18-34.0ff27943.png": "/mostafa-hessen/Facebook-Rract-App/static/media/Screenshot_2021-10-01-22-18-34.0ff27943.png",
+    "static/media/Screenshot_2021-10-30-22-19-49.1363ef27.png": "/mostafa-hessen/Facebook-Rract-App/static/media/Screenshot_2021-10-30-22-19-49.1363ef27.png",
+    "static/media/blog-bg-1.3810526f.jpg": "/mostafa-hessen/Facebook-Rract-App/static/media/blog-bg-1.3810526f.jpg",
+    "static/media/choose-us-img-2.57d9e3b2.jpg": "/mostafa-hessen/Facebook-Rract-App/static/media/choose-us-img-2.57d9e3b2.jpg",
+    "static/media/team-one.ceb1e719.jpg": "/mostafa-hessen/Facebook-Rract-App/static/media/team-one.ceb1e719.jpg",
+    "static/media/team-three.f88dfe3e.jpg": "/mostafa-hessen/Facebook-Rract-App/static/media/team-three.f88dfe3e.jpg",
+    "static/media/team-two.ea5c57f6.jpg": "/mostafa-hessen/Facebook-Rract-App/static/media/team-two.ea5c57f6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c241b3a6.js",
+    "static/js/2.96a32abe.chunk.js",
+    "static/css/main.6bf81f34.chunk.css",
+    "static/js/main.a35fe493.chunk.js"
+  ]
+}
